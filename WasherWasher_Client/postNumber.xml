@@ -1,0 +1,89 @@
+<NewAddressListResponse>
+<cmmMsgHeader>
+<requestMsgId/>
+<responseMsgId/>
+<responseTime>20170801:163506911</responseTime>
+<successYN>Y</successYN>
+<returnCode>00</returnCode>
+<errMsg/>
+<totalCount>65</totalCount>
+<countPerPage>50</countPerPage>
+<totalPage>2</totalPage>
+<currentPage>2</currentPage>
+</cmmMsgHeader>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 98-13 (온천동)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1676</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 98-23 (온천동)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1667</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 98-30 (온천동)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1666-5</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 100 (온천동)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1678</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 102-5 (온천동, 일조빌라)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1671-2 (일조빌라)</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 102-6 (온천동)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1674</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 102-8 (온천동)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1673</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 102-9 (온천동, 동남빌라)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1671-1 (동남빌라)</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 102-13 (온천동, 쁘띠쁘아유치원)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1657-7 (쁘띠쁘아유치원)</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 102-27 (온천동)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1666</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 102-28 (온천동)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1666-2</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 112 (온천동, 숲속키즈랜드)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1657-2 (숲속키즈랜드)</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 140 (온천동)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 1657-3</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 143-51 (온천동, 보탑사)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 산194 (보탑사)</rnAdres>
+</newAddressListAreaCdSearchAll>
+<newAddressListAreaCdSearchAll>
+<zipNo>47868</zipNo>
+<lnmAdres>부산광역시 동래구 쇠미로129번길 175 (온천동, 천태암)</lnmAdres>
+<rnAdres>부산광역시 동래구 온천동 산193-1 (천태암)</rnAdres>
+</newAddressListAreaCdSearchAll>
+</NewAddressListResponse>
