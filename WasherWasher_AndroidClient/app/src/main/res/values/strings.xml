@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">워셔워셔</string>
+    <string name="tab1_name">내 메뉴</string>
+    <string name="tab2_mapView">지도</string>
+</resources>
